@@ -1,0 +1,10 @@
+2023-09-21 11:53:04.601 [warning] [redhat.vscode-yaml]: 'redhat.telemetry.enabled'을(를) 등록할 수 없습니다. 이 속성은 이미 등록되어 있습니다.
+2023-09-21 11:53:06.544 [info] [perf] Render performance baseline is 26ms
+2023-09-21 11:53:15.203 [info] [perf] Render performance baseline is 28ms
+2023-09-21 11:53:17.218 [warning] [redhat.ansible]: 'redhat.telemetry.enabled'을(를) 등록할 수 없습니다. 이 속성은 이미 등록되어 있습니다.
+2023-09-21 12:10:35.542 [error] [Extension Host] Error loading yaml file
+2023-09-21 12:10:42.966 [error] [Extension Host] Error loading yaml file
+2023-09-21 12:16:59.735 [error] [Extension Host] Error loading yaml file
+2023-09-21 12:17:40.449 [error] [Extension Host] Error loading yaml file
+2023-09-21 12:17:42.526 [error] [Extension Host] Error loading yaml file
+2023-09-21 12:20:23.266 [error] [Extension Host] Error loading yaml file

@@ -1,0 +1,2 @@
+2023-09-21 11:52:50.249 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2023-09-21 11:52:52.327 [info] [perf] Render performance baseline is 33ms

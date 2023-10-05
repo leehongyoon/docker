@@ -1,0 +1,8 @@
+2023-09-21 11:53:21.353 [info] [Info  - 오전 11:53:21] (41379) Pylance language server 2023.9.20 (pyright 35eaeca4) starting
+2023-09-21 11:53:21.353 [info] [Info  - 오전 11:53:21] (41379) Server root directory: /root/.vscode/extensions/ms-python.vscode-pylance-2023.9.20/dist
+2023-09-21 11:53:21.361 [info] [Info  - 오전 11:53:21] (41379) Starting service instance "ansible"
+2023-09-21 11:53:21.489 [info] [Info  - 오전 11:53:21] (41379) Setting pythonPath for service "ansible": "/bin/python3.11"
+2023-09-21 11:53:21.498 [info] [Info  - 오전 11:53:21] (41379) Setting pythonPath for service "ansible": "/bin/python3.11"
+2023-09-21 11:53:21.499 [info] [Warn  - 오전 11:53:21] (41379) stubPath /root/ansible/typings is not a valid directory.
+2023-09-21 11:53:21.517 [info] [Info  - 오전 11:53:21] (41379) Assuming Python version 3.11
+2023-09-21 11:53:21.800 [info] [Info  - 오전 11:53:21] (41379) No source files found.
